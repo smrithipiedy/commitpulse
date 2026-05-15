@@ -52,4 +52,9 @@ export const themes: Record<string, BadgeTheme> = {
     text: 'd8dee9',
     accent: '88c0d0',
   },
+  synthwave: {
+    bg: '0d0221',
+    text: 'f8f8f2',
+    accent: 'ff2d78',
+  },
 };
